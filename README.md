@@ -27,3 +27,11 @@ Analyzed risk distribution across holdings
 
 Mukesh Kumar
 Aspiring Data Analyst
+
+## 📊 Dashboard Preview
+
+### ⭐ Page 1
+
+![Dashboard Page 1](<img width="1278" height="715" alt="share market" src="https://github.com/user-attachments/assets/8f17640c-f9bd-4a77-8f25-cebe59c5c673" />
+)
+
